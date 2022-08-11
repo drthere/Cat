@@ -1,0 +1,9 @@
+    def eat(self):
+        print("Cat favorite to eat fishs")
+        
+    def drink(self):
+        printt("Cat is doing drink water")
+        
+tom = Cat()
+tom.drink()
+tom.eat()
